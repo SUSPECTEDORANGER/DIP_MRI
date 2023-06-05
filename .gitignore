@@ -1,8 +1,12 @@
 # Byte-compiled / optimized / DLL files
 Project4_BrainAgeEstimation/
+*.npy
+*.zip
 __pycache__/
 *.py[cod]
 *$py.class
+data/
+*.png
 
 # C extensions
 *.so
